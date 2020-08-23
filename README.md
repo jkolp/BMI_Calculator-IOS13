@@ -10,6 +10,8 @@ A Body Mass Index calculator. Based on the user’s weight and height it will ca
 * Color literals.
 
 ![first page](Documentation/first_page.png)
-![second page](Documentation/second_page.png)
+![green](Documentation/normal.png)
+![blue](Documentation/under.png)
+![red](Documentation/over.png)
 
 ![End Banner](Documentation/readme-end-banner.png)
